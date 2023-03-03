@@ -1,0 +1,10 @@
+*.a
+*.db
+*.dll
+*.elf
+*.exe
+*.pdb
+*.so
+.DS_Store
+.vs
+.vscode

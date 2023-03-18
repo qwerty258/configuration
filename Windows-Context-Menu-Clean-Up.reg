@@ -12,3 +12,4 @@ Windows Registry Editor Version 5.00
 [-HKEY_CLASSES_ROOT\Directory\shell\XMPFolder2Add]
 [-HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\MyUploadTo115ContextMenuExt]
 [-HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\YunShellExt]
+[-HKEY_CLASSES_ROOT\QkCloudDrive.torrent]

@@ -3,6 +3,8 @@
 *.dll
 *.elf
 *.exe
+*.i
+*.o
 *.pdb
 *.so
 .DS_Store

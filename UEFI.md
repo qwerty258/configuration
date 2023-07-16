@@ -1,8 +1,11 @@
 # RAM Timing
 
 CAS latency: Column Access Strobe
+
 tRCD: Row Address to Column Address Delay
+
 tRP: Row Pre-charge Time
+
 tRAS: Row Active Time
 
 ## Different Model

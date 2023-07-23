@@ -1,6 +1,6 @@
 # history
-HISTSIZE=1000
-HISTFILESIZE=2000
+HISTSIZE=10000
+HISTFILESIZE=20000
 export HISTTIMEFORMAT="%Y-%m-%d %T "
 
 # Alias definitions.

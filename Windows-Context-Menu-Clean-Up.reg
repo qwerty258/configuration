@@ -6,6 +6,8 @@ Windows Registry Editor Version 5.00
 [-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\MyUploadTo115ContextMenuExt]
 [-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\YunShellExt]
 [-HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\CloudUpload]
+[-HKEY_CLASSES_ROOT\Directory\shell\QQMusic.1.Play]
+[-HKEY_CLASSES_ROOT\Directory\shell\QQMusic.2.Add]
 [-HKEY_CLASSES_ROOT\Directory\shell\QuarkCloudDrive.backup]
 [-HKEY_CLASSES_ROOT\Directory\shell\QuarkCloudDrive.upload]
 [-HKEY_CLASSES_ROOT\Directory\shell\XMPFolder1Play]

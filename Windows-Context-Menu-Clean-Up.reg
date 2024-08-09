@@ -1,7 +1,7 @@
 Windows Registry Editor Version 5.00
 
-[-HKEY_CLASSES_ROOT\*\shell\QuarkCloudDrive.upload]
 [-HKEY_CLASSES_ROOT\*\shell\QuarkCloudDrive.imSendSelf]
+[-HKEY_CLASSES_ROOT\*\shell\QuarkCloudDrive.upload]
 [-HKEY_CLASSES_ROOT\*\shell\UploadToThunderPan]
 [-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\AXmp]
 [-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\MyUploadTo115ContextMenuExt]
@@ -19,3 +19,5 @@ Windows Registry Editor Version 5.00
 [-HKEY_CLASSES_ROOT\Drive\shellex\ContextMenuHandlers\MyUploadTo115ContextMenuExt]
 [-HKEY_CLASSES_ROOT\Folder\ShellEx\ContextMenuHandlers\MyUploadTo115ContextMenuExt]
 [-HKEY_CLASSES_ROOT\QkCloudDrive.torrent]
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{18701C81-34AB-498E-8C7F-5D26B9C36732}] ;百度网盘同步空间
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{67486EAA-ED7F-4F84-82EB-26F23F57D690}] ;迅雷下载

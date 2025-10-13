@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+; This registry setting can also be controlled via Group Policy at 
+; Computer Configuration > Administrative Templates > System > Filesystem > Enable Win32 long paths.
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem]
+"LongPathsEnabled"=dword:00000001

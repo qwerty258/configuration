@@ -13,8 +13,9 @@ def main():
             new_filename = utf16_marker + file
             f = open(file, "rb")
             data = f.read()
+            str_data = data.decode().replace('\n', '\r\n')
             fn = open(new_filename, "wb")
-            fn.write(data.decode().encode("utf-16"))
+            fn.write(str_data.encode("utf-16"))
             fn.close()
             f.close()
 

@@ -13,7 +13,14 @@ Windows Registry Editor Version 5.00
 [-HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\CloudUpload]
 [-HKEY_CLASSES_ROOT\BaiduNetdiskImageViewerAssociations]
 [-HKEY_CLASSES_ROOT\BaiduYunGuanjia.torrent]
+[-HKEY_CLASSES_ROOT\CLSID\{2433C980-3DAB-43CA-99EB-01D5771054D0}] ;BaiduNetdisk WorkspaceOverlayIconHalfSync
+[-HKEY_CLASSES_ROOT\CLSID\{2A6FE247-5DA3-4732-9626-77820518FD77}] ;BaiduNetdisk WorkspaceOverlayIconOK
+[-HKEY_CLASSES_ROOT\CLSID\{6D85624F-305A-491d-8848-C1927AA0D790}] ;BaiduNetdisk YunShellExtContextMenu
+[-HKEY_CLASSES_ROOT\CLSID\{7FAAC51E-19C2-4E2D-B598-A8D32E45BA48}] ;BaiduNetdisk WorkspaceOverlayIconLocal
+[-HKEY_CLASSES_ROOT\CLSID\{AA931BEA-7353-4F4C-821F-6DC922AA3C77}] ;BaiduNetdisk WorkspaceOverlayIconPause
 [-HKEY_CLASSES_ROOT\CLSID\{BB4CB47C-6258-4502-AC4C-AFA73AFB4319}] ;QQ Shell
+[-HKEY_CLASSES_ROOT\CLSID\{C568C78A-652C-425B-8E6B-FFA73043302D}] ;BaiduNetdisk WorkspaceOverlayIconError
+[-HKEY_CLASSES_ROOT\CLSID\{D8BE1E70-244A-46F0-BC5B-077D5F29EED8}] ;BaiduNetdisk WorkspaceOverlayIconCloud
 [-HKEY_CLASSES_ROOT\Directory\Background\shell\douyin]
 [-HKEY_CLASSES_ROOT\Directory\shell\QQMusic.1.Play]
 [-HKEY_CLASSES_ROOT\Directory\shell\QQMusic.2.Add]
@@ -43,6 +50,14 @@ Windows Registry Editor Version 5.00
 [-HKEY_CLASSES_ROOT\xmp.3gp]
 [-HKEY_CLASSES_ROOT\xmp.3gpp]
 [-HKEY_CLASSES_ROOT\xmp.aac]
+[-HKEY_CLASSES_ROOT\xmp.ac3]
+[-HKEY_CLASSES_ROOT\xmp.acc]
+[-HKEY_CLASSES_ROOT\xmp.aiff]
+[-HKEY_CLASSES_ROOT\xmp.ape]
+[-HKEY_CLASSES_ROOT\xmp.avi]
+[-HKEY_CLASSES_ROOT\xmp.mp3]
+[-HKEY_CLASSES_ROOT\xmp.mp4]
+[-HKEY_CLASSES_ROOT\xmp.wmv]
 [-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{18701C81-34AB-498E-8C7F-5D26B9C36732}] ;百度网盘同步空间
 [-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{3C6C4AE3-9AE3-436F-BE29-E1C2F38A5EEC}] ;移动云盘同步盘
 [-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{67486EAA-ED7F-4F84-82EB-26F23F57D690}] ;迅雷下载

@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\115ContextMenuExt]
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\MyUploadTo115ContextMenuExt]
+[-HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\MyUploadTo115ContextMenuExt]
+[-HKEY_CLASSES_ROOT\Drive\shellex\ContextMenuHandlers\MyUploadTo115ContextMenuExt]
+[-HKEY_CLASSES_ROOT\Folder\ShellEx\ContextMenuHandlers\MyUploadTo115ContextMenuExt]

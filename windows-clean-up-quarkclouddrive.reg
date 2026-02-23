@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\*\shell\QuarkCloudDrive.imSendSelf]
+[-HKEY_CLASSES_ROOT\*\shell\QuarkCloudDrive.upload]
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\  QuarkCloudDrive.ContextMenuExt]
+[-HKEY_CLASSES_ROOT\Directory\shell\QuarkCloudDrive.backup]
+[-HKEY_CLASSES_ROOT\Directory\shell\QuarkCloudDrive.imSendSelf]
+[-HKEY_CLASSES_ROOT\Directory\shell\QuarkCloudDrive.upload]
+[-HKEY_CLASSES_ROOT\QkCloudDrive.torrent]

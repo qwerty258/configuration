@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\douyin]
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.jpeg\Shell\设置为抖音桌面壁纸]
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.jpg\Shell\设置为抖音桌面壁纸]
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.mp4\Shell\设置为抖音动态壁纸]
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.png\Shell\设置为抖音桌面壁纸]

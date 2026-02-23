@@ -1,0 +1,1 @@
+Get-AppxPackage -Name 'QQExtension' | Remove-AppxPackage

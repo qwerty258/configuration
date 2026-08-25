@@ -7,3 +7,5 @@
     defaultBranch = main
 [pager]
     branch = false
+[lfs]
+    skipSmudge = true
